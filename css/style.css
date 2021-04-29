@@ -1,0 +1,45 @@
+body{
+	width: 100%;
+	font-size: 20px;
+	line-height: 50px;
+	font-family: "san-sarif";
+}
+.h1{
+	text-align: center;
+	color: black;
+	background: yellow;
+}
+.main .tab-link{
+	width: 440px;
+	text-align: center;
+	background: silver;
+	margin-left: 434px;
+}
+.main .btn{
+	width: 115px;
+	padding: 10px 10px 10px 10px;
+	margin-right: 10px;
+	color: white;
+	background: blue;
+	font-weight: 700;
+}
+.main .btn:hover{
+	color: white;
+	background: Black;
+
+
+}
+.tab-content{
+	width: 100px;
+
+}
+.tab-content .tab-con {
+    padding: 10px 9px 20px 5px;
+    background: yellow;
+    text-align: center;
+    color: red;
+    font-size: 22px;
+    font-weight: 900;
+    width: 255px;
+    margin-left: 511px;
+}
